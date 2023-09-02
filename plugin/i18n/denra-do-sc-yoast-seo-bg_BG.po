@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Do Shortcodes for All in One SEO Pack\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-12 23:29+0000\n"
-"PO-Revision-Date: 2019-11-12 23:30+0000\n"
+"PO-Revision-Date: 2023-03-21 21:54+0000\n"
 "Last-Translator: Website WP <web@softshop.eu>\n"
-"Language-Team: Bulgarian\n"
+"Language-Team: Български\n"
 "Language: bg_BG\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
@@ -14,98 +14,110 @@ msgstr ""
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.3.1; wp-5.3-RC5"
 
-#: plugin/classes/DoShortcodesYoastSEO.php:25
-msgid "Do Shortcodes for YoastSEO"
-msgstr "Do Shortcodes for YoastSEO"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:113
-msgid "Do shortcodes for SEO title and description"
-msgstr "Изпълняване на кратки кодове за SEO заглавие и описание"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:114
-msgid "SEO Title"
-msgstr "SEO заглавие"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:115
-msgid "SEO Description"
-msgstr "SEO описание"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:119
-msgid "Do shortcodes for Facebook (Open Graph)"
-msgstr "Изпълняване на кратки кодове за Facebook (Open Graph)"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:120
-msgid "Facebook Title"
-msgstr "Facebook заглавие"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:121
-msgid "Facebook Description"
-msgstr "Facebook описание"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:125
-msgid "Do shortcodes for Twitter"
-msgstr "Изпълняване на кратки кодове за Twitter"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:126
-msgid "Twitter Title"
-msgstr "Twitter заглавие"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:127
-msgid "Twitter Description"
-msgstr "Twitter описание"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:131
-msgid "Do shortcodes in other locations"
-msgstr "Изпълняване на кратки кодове на други места"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:132
-msgid "Post/Page Title"
-msgstr "Заглавие на публикация/страница"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:133
-msgid "Post/Page Content"
-msgstr "Съдържание на публикация/страница"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:134
-msgid "Navigation Menu"
-msgstr "Навигационно меню"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:135
-msgid "Widget Title and Content"
-msgstr "Уиджет заглавие и съдържание"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:138
+#: plugin/classes/DoShortcodesYoastSEO.php:145
 msgid "Change filters' priority:"
 msgstr "Промяна на приоритета на филтрите:"
-
-#: plugin/classes/DoShortcodesYoastSEO.php:140
-msgid "In case they do not work already."
-msgstr "В случай, че все още не работят."
-
-#: plugin/classes/DoShortcodesYoastSEO.php:141
-msgid "In case the filters do not work. Higher is better."
-msgstr "В случай, че не работят. По-голямо число е по-добре."
-
-#. Name of the plugin
-msgid "Do Shortcodes for Yoast SEO"
-msgstr "Do Shortcodes for Yoast SEO"
-
-#. Description of the plugin
-msgid ""
-"Do shortcodes in SEO title and description, Facebook, Twitter and other "
-"fields for Yoast SEO."
-msgstr ""
-"Изпълняване на кратки кодове за SEO заглавие и описание, Facebook, Twitter и "
-"други полета за Yoast SEO."
-
-#. URI of the plugin
-msgid "http://denra.com/wordpress/plugins/do-shortcodes-for-yoast-seo/"
-msgstr "http://denra.com/wordpress/plugins/do-shortcodes-for-yoast-seo/"
 
 #. Author of the plugin
 msgid "Denra.com aka SoftShop Ltd"
 msgstr "Denra.com от СОФТШОП ЕООД"
 
+#. Description of the plugin
+msgid ""
+"Display shortcodes in title, description, Facebook and Twitter fields, and "
+"other locations for Yoast SEO."
+msgstr ""
+"Изпълнявайте кратки кодове в заглавието, описанието, полетата на Facebook и "
+"Twitter, и на други места на Yoast SEO."
+
+#: plugin/classes/DoShortcodesYoastSEO.php:120
+msgid "Do shortcodes for Facebook (Open Graph)"
+msgstr "Изпълняване на кратки кодове за Facebook (Open Graph)"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:133
+msgid "Do shortcodes for Schema Graph"
+msgstr "Изпълняване на кратки кодове за Schema Graph"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:114
+msgid "Do shortcodes for SEO title and description"
+msgstr "Изпълняване на кратки кодове за SEO заглавие и описание"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:127
+msgid "Do shortcodes for Twitter"
+msgstr "Изпълняване на кратки кодове за Twitter"
+
+#. Name of the plugin
+msgid "Do Shortcodes for Yoast SEO"
+msgstr "Do Shortcodes for Yoast SEO"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:25
+msgid "Do Shortcodes for YoastSEO"
+msgstr "Do Shortcodes for YoastSEO"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:138
+msgid "Do shortcodes in other locations"
+msgstr "Изпълняване на кратки кодове на други места"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:122
+msgid "Facebook Description"
+msgstr "Facebook описание"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:123
+msgid "Facebook Site Name"
+msgstr ""
+
+#: plugin/classes/DoShortcodesYoastSEO.php:121
+msgid "Facebook Title"
+msgstr "Facebook заглавие"
+
+#. URI of the plugin
+msgid "http://denra.com/wordpress/plugins/do-shortcodes-for-yoast-seo/"
+msgstr "http://denra.com/wordpress/plugins/do-shortcodes-for-yoast-seo/"
+
 #. Author URI of the plugin
 msgid "https://www.denra.com/"
 msgstr "https://www.denra.com/"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:148
+msgid "In case the filters do not work. Higher is better."
+msgstr "В случай, че не работят. По-голямо число е по-добре."
+
+#: plugin/classes/DoShortcodesYoastSEO.php:147
+msgid "In case they do not work already."
+msgstr "В случай, че все още не работят."
+
+#: plugin/classes/DoShortcodesYoastSEO.php:141
+msgid "Navigation Menu"
+msgstr "Навигационно меню"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:140
+msgid "Post/Page Content"
+msgstr "Съдържание на публикация/страница"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:139
+msgid "Post/Page Title"
+msgstr "Заглавие на публикация/страница"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:134
+msgid "Schema Graph Texts"
+msgstr "Всички текстове на Schema Graph"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:116
+msgid "SEO Description"
+msgstr "SEO описание"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:115
+msgid "SEO Title"
+msgstr "SEO заглавие"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:129
+msgid "Twitter Description"
+msgstr "Twitter описание"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:128
+msgid "Twitter Title"
+msgstr "Twitter заглавие"
+
+#: plugin/classes/DoShortcodesYoastSEO.php:142
+msgid "Widget Title and Content"
+msgstr "Уиджет заглавие и съдържание"

@@ -3,8 +3,8 @@ Contributors: denra, itinchev
 Donate link: https://www.paypal.me/itinchev
 Tags: yoast, seo, yoastseo, shortcode, shortcodes, display, execute, do, plugins, code, source, function, title, description, facebook, twitter, open graph
 Requires at least: 4.0
-Tested up to: 5.5.3
-Stable tag: 2.4.1
+Tested up to: 6.2
+Stable tag: 2.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,6 +25,7 @@ Please [contact us](mailto:support@denra.com) by e-mail if you need more informa
 * Do shortcodes in the post SEO title and description.
 * Do shortcodes in the Facebook (Open Graph) title and description.
 * Do shortcodes in the Twitter title and description.
+* Do shortcodes in the Schema Graph.
 * Do shortcodes in the post/page titles.
 * Do shortcodes in the navigation menus.
 * Do shortcodes in the widgets.
@@ -45,9 +46,13 @@ It will start doing it's job. That's all, folks!
 
 == Changelog ==
 
+= 2.5 =
+* Added Schema Graph support for shortcodes.
+* Tested for compatibility with WordPress version 6.2.
+
 = 2.4.1 =
 * Fixed: Restored Settings page design and missing button to Save settings.
-* Compatibility with WordPress version 5.5.3.
+* Tested for compatibility with WordPress version 5.5.3.
 
 = 2.4 =
 * Setting to apply shortcodes in blog/website title and description.

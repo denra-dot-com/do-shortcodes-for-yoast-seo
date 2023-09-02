@@ -4,7 +4,7 @@
 Plugin Name: Do Shortcodes for Yoast SEO
 Plugin URI: http://denra.com/wordpress/plugins/do-shortcodes-for-yoast-seo/
 Description: Display shortcodes in title, description, Facebook and Twitter fields, and other locations for Yoast SEO.
-Version: 2.4.1
+Version: 2.5
 Author: Denra.com aka SoftShop Ltd
 Author URI: https://www.denra.com/
 Text Domain: denra-do-sc-yoast-seo
@@ -26,7 +26,7 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
-Copyright 2019 Denra.com aka SoftShop Ltd
+Copyright 2019-2023 Denra.com aka SoftShop Ltd
 */
 
 namespace Denra\Plugins;
